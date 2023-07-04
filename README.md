@@ -1,3 +1,3 @@
 # YTG-MobileApp
-//This repo about a Student grading system mobile application
+//This repo is about a Student grading system mobile application
 
