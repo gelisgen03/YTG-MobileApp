@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "693859906725",
+    "project_id": "yedihilal-database",
+    "storage_bucket": "yedihilal-database.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693859906725:android:a4e33dd2819400cae7c94c",
+        "android_client_info": {
+          "package_name": "com.example.food"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXK6wewlBhaB7Tq0K-smzXo3luw0clbEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
