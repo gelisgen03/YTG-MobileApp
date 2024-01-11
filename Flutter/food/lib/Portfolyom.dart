@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'main.dart';
+import 'anaPanel.dart';
 
 class MyWidget extends StatelessWidget {
   const MyWidget({super.key});
