@@ -7,13 +7,13 @@
 ### **1)Login Screen**
 ### **2)Main Screen**
 ### **3)Others:**
-#### * **a)Profile screen**
-#### **b)Form screen**
-#### **c)Score display screen**
-#### **d)Announcement and news screen**
-#### **e)Setting screen**
-#### **f)Cominication screen**
-#### **g)About screen**
+#### **a) Profile screen**
+#### **b) Form screen**
+#### **c) Score display screen**
+#### **d) Announcement and news screen**
+#### **e) Setting screen**
+#### **f) Cominication screen**
+#### **g) About screen**
 
 ![Photo1](https://github.com/user-attachments/assets/00f2c2e3-f05e-4459-9f2e-3277367114fa)
 ![Photo2](https://github.com/user-attachments/assets/696fee92-9d83-4fa0-a837-8e30f8f5a915)
