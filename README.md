@@ -1,7 +1,7 @@
 # **YTG-MobileApp** 
 * This repo is about a Student grading system mobile application
-
 * This application is created for high school students to follow up the tasks assigned to them by the administrator.
+* Firebase is used as the database for application data and CRUD operations can be performed.
 
 ## **Screens:**
 ### **1)Login Screen**
